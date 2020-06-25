@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ECMS</string>
+    <string-array name="statusData">
+        <item>Verified</item>
+        <item>Rejected</item>
+    </string-array>
+</resources>

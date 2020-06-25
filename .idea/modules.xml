@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ECMS.iml" filepath="$PROJECT_DIR$/ECMS.iml" group="ECMS" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ECMS/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mylibrary/mylibrary.iml" group="ECMS/app/mylibrary" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mysql-connector-java-3.0.17-ga-bin/mysql-connector-java-3.0.17-ga-bin.iml" filepath="$PROJECT_DIR$/.idea/modules/mysql-connector-java-3.0.17-ga-bin/mysql-connector-java-3.0.17-ga-bin.iml" group="ECMS/mysql-connector-java-3.0.17-ga-bin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mysql-connector-java-5.1.49/mysql-connector-java-5.1.49.iml" filepath="$PROJECT_DIR$/.idea/modules/mysql-connector-java-5.1.49/mysql-connector-java-5.1.49.iml" group="ECMS/mysql-connector-java-5.1.49" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mysql-connector-java-5.1.49-bin/mysql-connector-java-5.1.49-bin.iml" filepath="$PROJECT_DIR$/.idea/modules/mysql-connector-java-5.1.49-bin/mysql-connector-java-5.1.49-bin.iml" group="ECMS/mysql-connector-java-5.1.49-bin" />
+    </modules>
+  </component>
+</project>

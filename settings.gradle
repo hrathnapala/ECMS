@@ -1,0 +1,5 @@
+include ':app:mylibrary'
+include ':mysql-connector-java-3.0.17-ga-bin'
+include ':mysql-connector-java-5.1.49-bin'
+include ':mysql-connector-java-5.1.49'
+include ':app'
